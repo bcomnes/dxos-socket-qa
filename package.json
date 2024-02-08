@@ -1,0 +1,14 @@
+{
+  "name": "dxos-socket-qa",
+  "version": "0.0.0",
+  "description": "We can move these into individual issues once they are validated.",
+  "main": "index.js",
+  "scripts": {
+    "start": "top-bun --src . --watch"
+  },
+  "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "top-bun": "^7.1.9"
+  }
+}
