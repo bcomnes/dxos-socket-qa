@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "We can move these into individual issues once they are validated.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "top-bun --src . --watch",
     "build": "top-bun --src ."
@@ -10,6 +11,6 @@
   "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
   "license": "MIT",
   "dependencies": {
-    "top-bun": "^7.1.9"
+    "top-bun": "^7.2.0"
   }
 }
