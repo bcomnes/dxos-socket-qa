@@ -4,7 +4,8 @@
   "description": "We can move these into individual issues once they are validated.",
   "main": "index.js",
   "scripts": {
-    "start": "top-bun --src . --watch"
+    "start": "top-bun --src . --watch",
+    "build": "top-bun --src ."
   },
   "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
   "license": "MIT",
